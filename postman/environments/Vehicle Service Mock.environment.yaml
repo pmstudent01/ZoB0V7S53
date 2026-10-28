@@ -1,0 +1,4 @@
+name: Vehicle Service Mock
+values:
+  - key: baseUrl
+    value: https://110cc062-c4c1-4acf-b9e7-3b189b04d7d6.mock.pstmn.io
